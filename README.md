@@ -7,7 +7,7 @@ Arquivos:
 
 ANTES DE PUBLICAR:
 1. Abra `terms.html` e `privacy.html`.
-2. Troque `SEU_EMAIL_AQUI` por um e-mail de contato real.
+2. Troque adryanmichel.profissional@gmail.com por um e-mail de contato real.
 3. Se o nome do bot não for `B$ Robux Logs`, substitua pelo nome correto.
 4. Publique os três arquivos no GitHub Pages.
 
